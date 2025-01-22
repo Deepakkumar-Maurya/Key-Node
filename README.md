@@ -1,2 +1,2 @@
-# Key-Node-frontend
+# Key-Node
 Blockchain based key storage system
